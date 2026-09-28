@@ -5,7 +5,7 @@ Scrape Foundit.in (formerly Monster India) job search: title, company, location,
 **Run it on Apify:** [apify.com/themineworks/foundit-jobs-scraper](https://apify.com/themineworks/foundit-jobs-scraper)
 **Docs, FAQ and pricing:** [themineworks.com/actors/foundit-jobs-scraper](https://themineworks.com/actors/foundit-jobs-scraper/)
 
-**Price:** $2.50 per 1,000 jobs on Apify's free plan, down to $1.50 on higher plans. Failed and empty results are never charged.
+**Price:** From $1.50 per 1,000 jobs on Apify's higher plans ($2.50 on the free plan). Failed and empty results are never charged.
 
 ## What it returns
 
